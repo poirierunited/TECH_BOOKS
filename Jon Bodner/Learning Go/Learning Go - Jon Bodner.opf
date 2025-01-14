@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">478e49e8-3f3c-4dc6-b56d-e6aca0d77b9e</dc:identifier>
+        <dc:title>Learning Go</dc:title>
+        <dc:creator opf:file-as="Jon Bodner" opf:role="aut">Jon Bodner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.16.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-02T03:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;div&gt;&lt;p&gt;Go is rapidly becoming the preferred language for building web services. While there are plenty of tutorials available that teach Go's syntax to developers with experience in other programming languages, tutorials aren't enough. They don't teach Go's idioms, so developers end up recreating patterns that don't make sense in a Go context. This practical guide provides the essential background you need to write clear and idiomatic Go.&lt;/p&gt;&lt;p&gt;No matter your level of experience, you'll learn how to think like a Go developer. Author Jon Bodner introduces the design patterns experienced Go developers have adopted and explores the rationale for using them. You'll also get a preview of Go's upcoming generics support and how it fits into the language.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Learn how to write idiomatic code in Go and design a Go project&lt;/li&gt;&lt;li&gt;Understand the reasons for the design decisions in Go&lt;/li&gt;&lt;li&gt;Set up a Go development environment for a solo developer or team&lt;/li&gt;&lt;li&gt;Learn how and when to use reflection, unsafe, and cgo&lt;/li&gt;&lt;li&gt;Discover how Go's features allow the language to run efficiently&lt;/li&gt;&lt;li&gt;Know which Go features you should use sparingly or not at all&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/span&gt;</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781492077213</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2024-09-16T11:19:37.761795+00:00"/>
+        <meta name="calibre:title_sort" content="Learning Go"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="Learning Go - Jon Bodner.jpg"/>
+    </guide>
+</package>
